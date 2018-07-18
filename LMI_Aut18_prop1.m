@@ -1,7 +1,7 @@
 function flag=LMI_Aut18_prop1(a,L,r,h,etaM,dL,dR,alpha0,alpha1,OmegaM)
 % This MATLAB program checks the feasibility of LMIs from Proposition 1 of the paper 
 % A. Selivanov and E. Fridman, "Delayed point control of a reaction-diffusion PDE 
-% under discrete-time point measurements," Automatica, 2018. 
+% under discrete-time point measurements," Automatica, vol. 96, pp. 224-233, 2018. 
 
 % The program uses YALMIP parser (http://users.isy.liu.se/johanl/yalmip/)
 
