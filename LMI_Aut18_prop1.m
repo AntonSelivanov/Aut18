@@ -12,7 +12,7 @@ function flag=LMI_Aut18_prop1(a,L,r,h,etaM,dL,dR,alpha0,alpha1,OmegaM)
 % h         - sampling period
 % etaM      - maximum network-induced delay 
 % dL, dR    - boundary conditions 
-% alpha0    - decay rates
+% alpha0    - decay rate
 % alpha1    - tuning parameter
 % OmegaM    - maximum subdomain size 
 
